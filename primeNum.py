@@ -1,4 +1,4 @@
-#Program to generate a prime number
+#Program to generate a large prime number
 
 #Some backgroudn on prime numbers:
 # Prime number is a number that by itself has only two factors, itself and 1
