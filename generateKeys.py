@@ -1,4 +1,5 @@
 #Public key generator (RSA) cryptography
+#Code to generate pub and priv keys as per the RSA algorithm, note: not fully secure due to pseudorandom number generation as opposed to true random
 import random, sys, os, primeNum,cryptomath
 
 def main():
